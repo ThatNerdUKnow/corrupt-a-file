@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^8.2.0"
+    "commander": "^8.3.0"
   }
 }
